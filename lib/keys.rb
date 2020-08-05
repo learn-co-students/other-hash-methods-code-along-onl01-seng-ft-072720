@@ -7,7 +7,8 @@ require 'pry'
 #  meat: ["chicken", "steak", "salmon"],
 #  grains: ["rice", "pasta"]
 # }
+#code your solution here!
 
 def get_the_keys(groceries)
-  #code your solution here!
+  groceries.keys
 end
